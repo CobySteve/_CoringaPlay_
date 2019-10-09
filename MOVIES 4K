@@ -1,47 +1,61 @@
-<item>
-		<title>[COLOR white][B]Estação[/B][/COLOR] [COLOR lime][B]Rádio Kids[/B][/COLOR]</title>
-		<link>http://192.99.150.31:9431/;</link>
-		<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
-		<fanart>https://www.hdwallpapers.in/download/guitar_fire__cold_5k-1920x1200.jpg</fanart>
-	</item>
+#EXTM3U
 
-<item>
-<title>[B]teste yt[/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=o9IIup-QKBc</link>
-<thumbnail>https://img.elo7.com.br/product/zoom/25E7D76/big-poster-filme-vingadores-ultimato-lo003-tamanho-90x60-cm-presente-nerd.jpg</thumbnail>
-<fanart>https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/04/Vingadores-Ultimato-2.jpg</fanart>
-<info>[B]Sinopse:[/B] Após Thanos eliminar metade das criaturas vivas, os Vingadores precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaço sem água nem comida, Steve Rogers (Chris Evans) e Natasha Romanov (Scarlett Johansson) precisam liderar a resistência contra o titã louco.</item>
-<item>
+#EXTINF:-1 tvg-logo="arte1.png" group-title="CANAIS - VARIEDADES",[B][COLOR white]ARTE 1[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]ARTE 1[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/20795.m3u8
 
-<item>
-<title>[B]VINGADORES 4K[/B]</title>
-<link>http://cdnfe3.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO4K.mp4?attachment=true</link>
-<thumbnail>https://img.elo7.com.br/product/zoom/25E7D76/big-poster-filme-vingadores-ultimato-lo003-tamanho-90x60-cm-presente-nerd.jpg</thumbnail>
-<fanart>https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/04/Vingadores-Ultimato-2.jpg</fanart>
-<info>[B]Sinopse:[/B] Após Thanos eliminar metade das criaturas vivas, os Vingadores precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaço sem água nem comida, Steve Rogers (Chris Evans) e Natasha Romanov (Scarlett Johansson) precisam liderar a resistência contra o titã louco.</item>
-<item>
+#EXTINF:-1 tvg-logo="comedycentral.png" group-title="CANAIS - VARIEDADES",[B][COLOR white]COMEDY CENTRAL[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]COMEDY CENTRAL[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2484.m3u8
 
-<item>
-<title>[B]CAPITÃ MARVEL 4K[/B]</title>
-<link>http://cdnfe3.azureedge.net/RCFServer2/ondemand/CPTMRVL.mp4?attachment=true</link>
-<thumbnail>http://br.web.img2.acsta.net/r_1280_720/pictures/19/01/08/14/44/2744700.jpg</thumbnail>
-<fanart>https://www.heroisdateve.com.br/wp-content/uploads/2019/02/DzyyQJiX0Achx2S.jpg</fanart>
-<info>[B]Sinopse:[/B] Carol Danvers (Brie Larson) é uma ex-agente da Força Aérea norte-americana, que, sem se lembrar de sua vida na Terra, é recrutada pelos Kree para fazer parte de seu exército de elite. Inimiga declarada dos Skrull, ela acaba voltando ao seu planeta de origem para impedir uma invasão dos metaformos, e assim vai acabar descobrindo a verdade sobre si, com a ajuda do agente Nick Fury (Samuel L. Jackson) e da gata Goose. </item>
-<item>
+#EXTINF:-1 tvg-logo="bis.png" group-title="CANAIS - VARIEDADES",[B][COLOR white]BIS[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]CANAL BIS[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/1104.m3u8
 
-<item>
-<title>[B]COMO TREINAR O SEU DRAGÃO 3 4K[/B]</title>
-<link>http://cdnfe3.azureedge.net/RCFServer2/ondemand/CMTRNRDRG3.mp4?attachment=true</link>
-<thumbnail>https://ingresso-a.akamaihd.net/img/cinema/cartaz/21959-cartaz.jpg</thumbnail>
-<fanart>https://s3.amazonaws.com/seriemaniacos/uploads/2019/01/Como-Treinar-o-Seu-Drag%C3%A3o-3.jpg</fanart>
-<info>[B]Sinopse:[/B] Decidido a fazer de Berk um verdadeiro libelo ao ideal da convivência pacífica entre homens e dragões, Soluço e seus amigos seguem atrás de caçadores, para não só libertar suas presas mas também impedir a matança desenfreada dos animais. O esforço do grupo desperta a atenção de Grimmel ao descobrir que entre eles está Banguela, um legítimo Fúria da Noite. O vilão então desenvolve um plano para capturá-lo a todo custo, usando como arma uma fêmea capturada, da mesma espécie.</item>
-<item>
+#EXTINF:-1 tvg-logo="curta.png" group-title="CANAIS - VARIEDADES",[B][COLOR white]CURTA[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]CANAL CURTA[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/20802.m3u8
 
-<item>
-<title>[B]O MENINO QUE QUERIA SER REI 4K[/B]</title>
-<link>http://cdnfe3.azureedge.net/RCFServer2/ondemand/OMENOQQSREI.mp4?attachment=true</link>
-<thumbnail>http://cdn.atl.clicrbs.com.br/wp-content/uploads/sites/27/2019/02/Poster-Oficial.jpg</thumbnail>
-<fanart>https://miro.medium.com/max/3840/1*1EafQm1SRT6nEhpkMXseFg.jpeg</fanart>
-<info>[B]Sinopse:[/B] Alex (Louis Serkis) é um garoto que enfrenta problemas no colégio, por sempre defender o amigo Bedders (Dean Chaumoo) dos valentões Lance (Tom Taylor) e Kaye (Rhianna Dorris). Um dia, ao fugir da dupla, ele se esconde em um canteiro de obras abandonado. Lá encontra uma espada encravada em uma pedra, da qual retira com grande facilidade. O que Alex não sabia era que a espada era a lendária Excalibur e que, como seu novo portador, precisa agora enfrentar a meia-irmã do rei Arthur, Morgana (Rebecca Ferguson), que está prestes a retomar seu poder. Para tanto, ele conta com a ajuda do mago Merlin (Angus Imrie), transformado em uma versão bem mais jovem.</item>
-<item>
+#EXTINF:-1 tvg-logo="mtv.png" group-title="CANAIS - VARIEDADES",[B][COLOR white]MTV[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR yellowMTV  [/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/5092.m3u8
 
+#EXTINF:-1 tvg-logo="vh1.png" group-title="CANAIS - VARIEDADES",[B][COLOR white]VH1 MEGAHITS[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]VH1 MEGAHITS[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/5098.m3u8
+
+#EXTINF:-1 tvg-logo="animalplanet.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] ANIMAL PLANET[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]ANIMAL PLANET[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/1117.m3u8
+
+#EXTINF:-1 tvg-logo="discoverychannel.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISCOVERY CHANNEL[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISCOVERY CHANNEL[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2410.m3u8
+
+#EXTINF:-1 tvg-logo="discoverycivilization.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISOCVERY CIVILIZATION[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISOCVERY CIVILIZATION[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/16005.m3u8
+
+#EXTINF:-1 tvg-logo="discoveryh&h.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISCOVERY H&H[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISCOVERY HH[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/1082.m3u8
+
+#EXTINF:-1 tvg-logo="discoveryscience.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISCOVERY SCIENCE[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISCOVERY SCIENCE[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/16006.m3u8
+
+#EXTINF:-1 tvg-logo="discoverytheater.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISCOVERY THEATER[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISCOVERY THEATER[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2460.m3u8
+
+#EXTINF:-1 tvg-logo="discoveryturbo.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISCOVERY TURBO[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISCOVERY TURBO[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2411.m3u8
+
+#EXTINF:-1 tvg-logo="discoveryworld.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] DISCOVERY WORLD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]DISCOVERY WORLD[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2461.m3u8
+
+#EXTINF:-1 tvg-logo="h2.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] H2[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]H2[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/1021.m3u8
+
+#EXTINF:-1 tvg-logo="history.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] HISTORY[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]HISTORY[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2468.m3u8
+
+#EXTINF:-1 tvg-logo="id.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] INVESTIGAÇÃO DISCOVERY[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]INVESTIGAÇÃO DISCOVERY[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/2469.m3u8
+
+#EXTINF:-1 tvg-logo="natgeowild.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] NATGEO WILD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]NATGEO WILD[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/994.m3u8
+
+#EXTINF:-1 tvg-logo="nationalgeographic.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] NATIONAL GEOGRAPHIC[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]NATIONAL GEOGRAPHIC[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/990.m3u8
+
+#EXTINF:-1 tvg-logo="tlc.png" group-title="CANAIS - DOCUMENTARIOS",[B][COLOR white] TLC[/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]TLC[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://lista.digitalgroup.me:80/live/cassio123/cassio123/5097.m3u8
