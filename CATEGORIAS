@@ -65,6 +65,19 @@ Não sou dono dos arquivos, todo conteúdo do addon foi encontrado na internet, 
 
 <channels>
 <channel>
+<name>[B]RÁDIOS[/B]</name>
+<thumbnail>https://ia601504.us.archive.org/12/items/icon_20190918_20190918_1322/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/R%C3%81DIOS</externallink>
+<fanart>https://ia801407.us.archive.org/25/items/icon_20190909/fanart.jpg</fanart>
+<info>[COLOR red][B]ATENÇÃO USUÁRIO[/B][/COLOR]
+Não sou dono dos arquivos, todo conteúdo do addon foi encontrado na internet, não hospedo nenhum tipo de arquivo</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR gold][B]CORINGA[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR]</name>
 <thumbnail>https://ia601504.us.archive.org/12/items/icon_20190918_20190918_1322/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/SUA%20MAE%20GDRIVE</externallink>
