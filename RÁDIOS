@@ -7,7 +7,7 @@ http://192.99.150.31:9431/;
 http://192.99.150.31:8775/;
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Bossa Nova
-http://177.124.130.10:9974/stream
+http://23.82.11.87:10028/stream
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Forró
 http://192.99.150.31:9019/;
