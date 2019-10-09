@@ -13,10 +13,10 @@ http://23.82.11.87:10028/stream
 http://192.99.150.31:9019/;
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Pagode
-http://177.124.130.10:9061/stream
+http://23.82.11.87:20028/stream
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Anos 2000
-http://177.124.130.10:9940/stream
+http://68.169.46.107:8052/stream
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Sertanejo
 http://192.99.150.31:9485/;
@@ -28,7 +28,7 @@ http://192.99.150.31:9089/;
 http://192.99.150.31:9125/;
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Lounge
-http://177.124.130.10:9064/stream
+http://37.187.59.149:8019/stream
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Pop Rock
 http://177.124.130.10:8016/stream
@@ -208,4 +208,4 @@ http://noasrv.caster.fm:10137/stream
 http://noasrv.caster.fm:10124/stream
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/hC90L3k.png" tvg-name=""radio=true,Rádio Imbé FM
-http://noasrv.caster.fm:10135/stream
+https://radioglobo.globo.com/#aovivosp
