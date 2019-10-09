@@ -154,7 +154,7 @@ http://audio.bb07.upx.net.br:8058/;
 http://mixaac.crossradio.com.br:1100/live
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/NeJf46K.jpg" tvg-name=""radio=true,Rádio Coca Cola FM
-http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+http://142.4.217.133:9668/stream
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/x3j3rYJ.png" tvg-name=""radio=true,Rádio Mania FM
 http://radio.servercsi.com.br:8595/;
