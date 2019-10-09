@@ -208,4 +208,4 @@ http://noasrv.caster.fm:10137/stream
 http://noasrv.caster.fm:10124/stream
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/hC90L3k.png" tvg-name=""radio=true,Rádio Imbé FM
-https://radioglobo.globo.com/#aovivosp
+http://178.33.72.12:80/globorm64
