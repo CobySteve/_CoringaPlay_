@@ -349,6 +349,13 @@
 	</item>
 	
 	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Metropolitana FM[/B][/COLOR]</title>
+		<link>https://s09.maxcast.com.br:8124/live</link>
+		<thumbnail>https://img.radios.com.br/radio/lg/radio38481_1556802158.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
 		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Ótima FM[/B][/COLOR]</title>
 		<link>http://208.115.213.242:8655/stream</link>
 		<thumbnail>https://pbs.twimg.com/profile_images/836221250875834368/JJ-NTQ-e_400x400.jpg</thumbnail>
@@ -359,6 +366,13 @@
 		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Mix FM[/B][/COLOR]</title>
 		<link>http://mixaac.crossradio.com.br:1100/live</link>
 		<thumbnail>http://i.imgur.com/rV5HHXO.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Antena 1[/B][/COLOR]</title>
+		<link>http://a1rj.streams.com.br:7801/stream</link>
+		<thumbnail>https://img.radios.com.br/radio/lg/radio15456_1470953779.jpg</thumbnail>
 		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
 	</item>
 	
@@ -455,7 +469,7 @@
 	
 	<item>
 		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Grenal FM[/B][/COLOR]</title>
-		<link>http://noasrv.caster.fm:10115/stream</link>
+		<link>http://cast4.audiostream.com.br:8649/mp3</link>
 		<thumbnail>http://i.imgur.com/9Pu8H7t.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
 	</item>
