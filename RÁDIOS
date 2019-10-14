@@ -157,7 +157,7 @@ http://mixaac.crossradio.com.br:1100/live
 http://142.4.217.133:9668/stream
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/x3j3rYJ.png" tvg-name=""radio=true,Rádio Mania FM
-http://shout35.crossradio.com.br:8086/stream?1571062916265
+http://shout35.crossradio.com.br:8086/stream?1571063370196
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/O9dknve.png" tvg-name=""radio=true,Rádio Transamerica FM
 http://transamerica.crossradio.com.br:9114/live.mp3
