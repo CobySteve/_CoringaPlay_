@@ -243,4 +243,233 @@
 		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
 	</item>
 
-
+<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Cachoeira AM[/B][/COLOR]</title>
+		<link>http://centova.welltecnologia.com.br:8096/;</link>
+		<thumbnail>http://i.imgur.com/TmycWPZ.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Nova FM[/B][/COLOR]</title>
+		<link>http://stm45.streamingbage.net.br:11454/;</link>
+		<thumbnail>http://i.imgur.com/cvHzRir.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Clube Bagé AM[/B][/COLOR]</title>
+		<link>http://stm7.streamingbage.net.br:16766/;</link>
+		<thumbnail>http://i.imgur.com/55zvsZG.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Alegria FM[/B][/COLOR]</title>
+		<link>http://stream.ouveai.com.br:8061/;</link>
+		<thumbnail>http://i.imgur.com/Ivdf27M.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Esperança AM[/B][/COLOR]</title>
+		<link>http://200.175.79.171:8000/;</link>
+		<thumbnail>http://i.imgur.com/rMmdaYl.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Itapema FM[/B][/COLOR]</title>
+		<link>http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8</link>
+		<thumbnail>http://i.imgur.com/6sLoNZn.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Novo Tempo FM[/B][/COLOR]</title>
+		<link>http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8</link>
+		<thumbnail>http://i.imgur.com/ClakDxW.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Guaíba FM/AM[/B][/COLOR]</title>
+		<link>http://15122g.ha.azioncdn.net/5122g/_definst_/guaiba.sdp/playlist.m3u8</link>
+		<thumbnail>http://i.imgur.com/8U3B3Lw.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Atlântida FM[/B][/COLOR]</title>
+		<link>http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8</link>
+		<thumbnail>http://i.imgur.com/dT8ZOeg.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Band News FM[/B][/COLOR]</title>
+		<link>http://evp.mm.uol.com.br:1935/bnewsfm_poa/_definst_/bnewsfm_poa/playlist.m3u8</link>
+		<thumbnail>http://i.imgur.com/3ku6dPr.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Farroupilha FM/AM[/B][/COLOR]</title>
+		<link>http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8</link>
+		<thumbnail>http://i.imgur.com/WZrYSBf.gif</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Gaúcha FM/AM[/B][/COLOR]</title>
+		<link>http://542747t.ls.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/gaucha_rbs.sdp/playlist.m3u8</link>
+		<thumbnail>http://i.imgur.com/MlwaApi.jpg</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Bandeirantes FM/AM[/B][/COLOR]</title>
+		<link>http://evp.mm.uol.com.br:1935/radioam_poa/_definst_/radioam_poa/playlist.m3u8</link>
+		<thumbnail>http://i.imgur.com/dZKe7DK.jpg</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Gr6 Explode FM[/B][/COLOR]</title>
+		<link>http://216.245.204.227:8054/live</link>
+		<thumbnail>http://i.imgur.com/jXGTFcR.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio FM O Dia[/B][/COLOR]</title>
+		<link>https://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8</link>
+		<thumbnail>http://i.imgur.com/QhSS71Q.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Ótima FM[/B][/COLOR]</title>
+		<link>http://208.115.213.242:8655/stream</link>
+		<thumbnail>https://pbs.twimg.com/profile_images/836221250875834368/JJ-NTQ-e_400x400.jpg</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Mix FM[/B][/COLOR]</title>
+		<link>http://mixaac.crossradio.com.br:1100/live</link>
+		<thumbnail>http://i.imgur.com/rV5HHXO.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Coca Cola FM[/B][/COLOR]</title>
+		<link>http://142.4.217.133:9668/stream</link>
+		<thumbnail>http://i.imgur.com/NeJf46K.jpg</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Globo 98.1 FM[/B][/COLOR]</title>
+		<link>https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8</link>
+		<thumbnail>https://img.radios.com.br/radio/lg/radio8817_1501762445.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Mania FM[/B][/COLOR]</title>
+		<link>http://shout35.crossradio.com.br:8086/stream?1571063370196</link>
+		<thumbnail>http://i.imgur.com/x3j3rYJ.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Transamerica FM[/B][/COLOR]</title>
+		<link>http://transamerica.crossradio.com.br:9114/live.mp3</link>
+		<thumbnail>http://i.imgur.com/O9dknve.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Jovem Pan FM[/B][/COLOR]</title>
+		<link>http://centova6.ciclanohost.com.br:9256/;</link>
+		<thumbnail>http://i.imgur.com/oRYDaYf.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio 99.5 FM[/B][/COLOR]</title>
+		<link>http://srv6.zoeweb.tv:1935/serradourada/stream/playlist.m3u8</link>
+		<thumbnail>http://i.imgur.com/IGzepM4.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio 104 FM[/B][/COLOR]</title>
+		<link>http://noasrv.caster.fm:10127/stream</link>
+		<thumbnail>http://i.imgur.com/LZk3Bt6.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Eldorado FM[/B][/COLOR]</title>
+		<link>http://noasrv.caster.fm:10136/stream</link>
+		<thumbnail>http://i.imgur.com/TKZ90g5.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Pampa FM[/B][/COLOR]</title>
+		<link>http://noasrv.caster.fm:10128/stream</link>
+		<thumbnail>http://i.imgur.com/XtpLtUe.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Liberdade FM[/B][/COLOR]</title>
+		<link>http://noasrv.caster.fm:10129/stream</link>
+		<thumbnail>http://i.imgur.com/ttPklRN.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Continental FM[/B][/COLOR]</title>
+		<link>http://noasrv.caster.fm:10126/stream</link>
+		<thumbnail>http://i.imgur.com/OC6JEfB.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Caiçara FM/AM[/B][/COLOR]</title>
+		<link>http://noasrv.caster.fm:10130/stream</link>
+		<thumbnail>http://i.imgur.com/C79VBmi.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Capão FM[/B][/COLOR]</title>
+		<link>http://noasrv.caster.fm:10131/stream</link>
+		<thumbnail>http://i.imgur.com/Vshg5E2.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Grenal FM[/B][/COLOR]</title>
+		<link>http://noasrv.caster.fm:10115/stream</link>
+		<thumbnail>http://i.imgur.com/9Pu8H7t.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Praia FM[/B][/COLOR]</title>
+		<link>http://noasrv.caster.fm:10132/stream</link>
+		<thumbnail>http://i.imgur.com/UIqr0bU.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR write][B]Rádio Princesa FM[/B][/COLOR]</title>
+		<link>http://noasrv.caster.fm:10124/stream</link>
+		<thumbnail>http://i.imgur.com/I5y8DaH.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
