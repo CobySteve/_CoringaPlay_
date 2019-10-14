@@ -159,6 +159,9 @@ http://mixaac.crossradio.com.br:1100/live
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/NeJf46K.jpg" tvg-name=""radio=true,Rádio Coca Cola FM
 http://142.4.217.133:9668/stream
 
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://img.radios.com.br/radio/lg/radio8817_1501762445.png" tvg-name=""radio=true,Rádio Globo 98.1 FM
+https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/x3j3rYJ.png" tvg-name=""radio=true,Rádio Mania FM
 http://shout35.crossradio.com.br:8086/stream?1571063370196
 
