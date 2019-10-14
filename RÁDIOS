@@ -148,7 +148,7 @@ http://evp.mm.uol.com.br:1935/radioam_poa/_definst_/radioam_poa/playlist.m3u8
 http://216.245.204.227:8054/live
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/QhSS71Q.png" tvg-name=""radio=true,Rádio FM O Dia
-https://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/media-utctcjxva_35230.aac
+https://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/rV5HHXO.png" tvg-name=""radio=true,Rádio Mix FM
 http://mixaac.crossradio.com.br:1100/live
