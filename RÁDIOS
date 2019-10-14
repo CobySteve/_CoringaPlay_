@@ -150,6 +150,9 @@ http://216.245.204.227:8054/live
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/QhSS71Q.png" tvg-name=""radio=true,Rádio FM O Dia
 https://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
 
+#EXTINF:-1 group-title="Rádios" tvg-logo="https://pbs.twimg.com/profile_images/836221250875834368/JJ-NTQ-e_400x400.jpg" tvg-name=""radio=true,Rádio Ótima FM
+http://208.115.213.242:8655/stream
+
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/rV5HHXO.png" tvg-name=""radio=true,Rádio Mix FM
 http://mixaac.crossradio.com.br:1100/live
 
