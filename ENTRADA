@@ -1,10 +1,11 @@
 <channels>
 <channel>
-<name>[COLOR white]SEJAM BEM VINDOS[/COLOR] - [COLOR gold][B]CORINGA[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR]</name>
+<name>[COLOR gold][B]CORINGA[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/7/items/tag_20190922/tag.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801407.us.archive.org/25/items/icon_20190909/fanart.jpg</fanart>
-<info> - O melhor conteudo do cinema voce encontra aqui - </info>
+<info>[COLOR red][B]ATENÇÃO USUÁRIO[/B][/COLOR]
+Não sou dono dos arquivos, todo conteúdo do addon foi encontrado na internet, não hospedo nenhum tipo de arquivo</info>
 </channel>
 </channels>
 
@@ -12,13 +13,77 @@
 
 <channels>
 <channel>
-<name>[COLOR lime][B]--->>[/B] [COLOR white][B]ENTRE AQUI[/B][/COLOR] [B]<<---[/B][/COLOR]</name>
+<name>[B]TV AO VIVO[/B]</name>
 <thumbnail>https://ia601406.us.archive.org/7/items/tag_20190922/tag.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/CATEGORIAS</externallink>
+<externallink>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/TV%20AO%20VIVO</externallink>
 <fanart>https://ia801407.us.archive.org/25/items/icon_20190909/fanart.jpg</fanart>
-<info> [COLOR yellow]|[/COLOR]TV[COLOR yellow]|[/COLOR][COLOR yellow]|[/COLOR]FILMES[COLOR yellow]|[/COLOR][COLOR yellow]|[/COLOR]SERIES[COLOR yellow]|[/COLOR][COLOR yellow]|[/COLOR]DESENHOS[COLOR yellow]|[/COLOR]</info>
+<info>[COLOR red][B]ATENÇÃO USUÁRIO[/B][/COLOR]
+Não sou dono dos arquivos, todo conteúdo do addon foi encontrado na internet, não hospedo nenhum tipo de arquivo</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B]FILMES[/B]</name>
+<thumbnail>https://ia601406.us.archive.org/7/items/tag_20190922/tag.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MOVIES</externallink>
+<fanart>https://ia801407.us.archive.org/25/items/icon_20190909/fanart.jpg</fanart>
+<info>[COLOR red][B]ATENÇÃO USUÁRIO[/B][/COLOR]
+Não sou dono dos arquivos, todo conteúdo do addon foi encontrado na internet, não hospedo nenhum tipo de arquivo</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B]SÉRIES[/B]</name>
+<thumbnail>https://ia601406.us.archive.org/7/items/tag_20190922/tag.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/TV%20MOVIES</externallink>
+<fanart>https://ia801407.us.archive.org/25/items/icon_20190909/fanart.jpg</fanart>
+<info>[COLOR red][B]ATENÇÃO USUÁRIO[/B][/COLOR]
+Não sou dono dos arquivos, todo conteúdo do addon foi encontrado na internet, não hospedo nenhum tipo de arquivo</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B]DESENHOS[/B]</name>
+<thumbnail>https://ia601406.us.archive.org/7/items/tag_20190922/tag.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/IN%20DESENHOS</externallink>
+<fanart>https://ia801407.us.archive.org/25/items/icon_20190909/fanart.jpg</fanart>
+<info>[COLOR red][B]ATENÇÃO USUÁRIO[/B][/COLOR]
+Não sou dono dos arquivos, todo conteúdo do addon foi encontrado na internet, não hospedo nenhum tipo de arquivo</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B]RÁDIOS[/B]</name>
+<thumbnail>https://ia601406.us.archive.org/7/items/tag_20190922/tag.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/R%C3%81DIOS</externallink>
+<fanart>https://ia801407.us.archive.org/25/items/icon_20190909/fanart.jpg</fanart>
+<info>[COLOR red][B]ATENÇÃO USUÁRIO[/B][/COLOR]
+Não sou dono dos arquivos, todo conteúdo do addon foi encontrado na internet, não hospedo nenhum tipo de arquivo</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR gold][B]CORINGA[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR]</name>
+<thumbnail>https://ia601406.us.archive.org/7/items/tag_20190922/tag.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/SUA%20MAE%20GDRIVE</externallink>
+<fanart>https://ia801407.us.archive.org/25/items/icon_20190909/fanart.jpg</fanart>
+<info>[COLOR red][B]ATENÇÃO USUÁRIO[/B][/COLOR]
+Não sou dono dos arquivos, todo conteúdo do addon foi encontrado na internet, não hospedo nenhum tipo de arquivo</info>
+</channel>
+</channels>>  
  
