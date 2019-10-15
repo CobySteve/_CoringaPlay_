@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 type="stream" tvg-id="A Fazenda 11" tvg-logo="https://comunidade.f7noticias.com/wp-content/uploads/2019/09/afazenda-logo_25e81be8deda541ae62e7d306bb68cf6306a8af1.jpeg" group-title="Variedade",A Fazenda 11
+http://load.kudaplay.tv/aovivo/HD_A_FAZENDA/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
+#EXTINF:-1 type="stream" tvg-id="A Fazenda 11 [Alter]" tvg-logo="https://comunidade.f7noticias.com/wp-content/uploads/2019/09/afazenda-logo_25e81be8deda541ae62e7d306bb68cf6306a8af1.jpeg" group-title="Variedade",A Fazenda 11 [Alter]
+http://load.kudaplay.tv/aovivo/HD_A_FAZENDA_ALTER/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png" group-title="Filme e 15|false|true|10",A&E
+http://load.kudaplay.tv/aovivo/SD_AE/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
+#EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a4/A%26E_HD.png/revision/latest?cb=20111207180519" group-title="Filme e 15|false|true|10",A&E FHD
+http://load.kudaplay.tv/aovivo/FHD_AE/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
+#EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/a4/A%26E_HD.png/revision/latest?cb=20111207180519" group-title="Filme e 15|false|true|10",A&E HD
+http://load.kudaplay.tv/aovivo/HD_AE/video.m3u8?token=24088e6e2b322de8fcac34e30ea480bf
