@@ -267,7 +267,7 @@
 	<item>
 		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR silver][B]Rádio Gaúcha FM/AM[/B][/COLOR]</title>
 		<link>https://1852747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/chunklist_0dd669a7-1439-451b-8410-d8a671ac4b38.m3u8</link>
-		<thumbnail>http://i.imgur.com/MlwaApi.jpg</thumbnail>
+		<thumbnail>https://static.mytuner.mobi/media/tvos_radios/LnQzp2wQMU.jpg</thumbnail>
 		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
 	</item>
 	
@@ -328,6 +328,13 @@
 	</item>
 	
 	<item>
+		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR silver][B]Rádio BH FM[/B][/COLOR]</title>
+		<link>https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8</link>
+		<thumbnail>https://static.mytuner.mobi/media/tvos_radios/mkbYJqxK8W.png</thumbnail>
+		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
+	</item>
+	
+	<item>
 		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR silver][B]Rádio Globo 98.1 FM[/B][/COLOR]</title>
 		<link>https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8</link>
 		<thumbnail>https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png</thumbnail>
@@ -337,7 +344,7 @@
 	<item>
 		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR silver][B]Rádio Mania FM[/B][/COLOR]</title>
 		<link>http://shout35.crossradio.com.br:8086/stream?1571063370196</link>
-		<thumbnail>http://i.imgur.com/x3j3rYJ.png</thumbnail>
+		<thumbnail>https://static.mytuner.mobi/media/tvos_radios/ulpu23hhywdn.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
 	</item>
 	
@@ -351,7 +358,7 @@
 	<item>
 		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR silver][B]Rádio Jovem Pan FM[/B][/COLOR]</title>
 		<link>http://8a3c.live.upx.net.br:8036/stream.mp3</link>
-		<thumbnail>http://i.imgur.com/oRYDaYf.png</thumbnail>
+		<thumbnail>https://static.mytuner.mobi/media/tvos_radios/PUenG9e2m6.jpg</thumbnail>
 		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
 	</item>
 	
