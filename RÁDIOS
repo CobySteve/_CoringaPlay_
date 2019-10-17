@@ -244,13 +244,6 @@
 	</item>
 	
 	<item>
-		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR silver][B]Rádio Guaíba FM/AM[/B][/COLOR]</title>
-		<link>https://cast4.audiostream.com.br:2007/site?1571315630653</link>
-		<thumbnail>http://i.imgur.com/8U3B3Lw.png</thumbnail>
-		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
-	</item>
-	
-	<item>
 		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR silver][B]Rádio Atlântida FM[/B][/COLOR]</title>
 		<link>http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8</link>
 		<thumbnail>http://i.imgur.com/dT8ZOeg.png</thumbnail>
@@ -328,13 +321,6 @@
 	</item>
 	
 	<item>
-		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR silver][B]Rádio Coca Cola FM[/B][/COLOR]</title>
-		<link>http://142.4.217.133:9668/stream</link>
-		<thumbnail>http://i.imgur.com/NeJf46K.jpg</thumbnail>
-		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
-	</item>
-	
-	<item>
 		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR silver][B]Rádio Globo 98.1 FM[/B][/COLOR]</title>
 		<link>https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8</link>
 		<thumbnail>https://img.radios.com.br/radio/lg/radio8817_1501762445.png</thumbnail>
@@ -357,7 +343,7 @@
 	
 	<item>
 		<title>[COLOR gold][B]Estação[/B][/COLOR] [COLOR silver][B]Rádio Jovem Pan FM[/B][/COLOR]</title>
-		<link>https://top80.com.br:9000/stream?1571316498742</link>
+		<link>http://8a3c.live.upx.net.br:8036/stream.mp3</link>
 		<thumbnail>http://i.imgur.com/oRYDaYf.png</thumbnail>
 		<fanart>https://raw.githubusercontent.com/CobySteve/_CoringaPlay_/master/MINHAS%20IMAGENS/FNT.png</fanart>
 	</item>
